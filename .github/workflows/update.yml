@@ -1,52 +1,15 @@
-name: Update GitHub Profile SVG
+name: Test Workflow
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # Every day at 00:00 UTC
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r scripts/requirements.txt
-
-      - name: Generate Info Card
-        run: |
-          python scripts/info_card.py
-
-      - name: Generate ASCII Portrait
-        run: |
-          python scripts/make_ascii_svg.py
-
-      - name: Generate Contribution Heatmap
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python scripts/contribution_heatmap.py
-
-      - name: Commit Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add assets/
-
-          git diff --cached --quiet || git commit -m "Update profile SVGs"
-
-          git push
+      - name: Say Hello
+        run: echo "GitHub Actions is working!"
