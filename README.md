@@ -2,23 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kavyanjali</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
-##  About Me ##
-
-⚡ Currently learning advanced backend & cloud technologies    
-
-💻 MERN Stack Developer passionate about building scalable web applications
-
-🤖 Exploring Artificial Intelligence & Machine Learning, Cloud Technologies
-
-⚡ Love building real-world projects and improving problem-solving skills
-</div>
-
----
-
-## 📈 Contribution Activity
-<p align="center">
-  <img src="./assets/contrib-heatmap.svg" width="100%">
-</p>
 
 ---
 
@@ -39,6 +22,25 @@
 
 </tr>
 </table>
+
+---
+##  About Me ##
+
+⚡ Currently learning advanced backend & cloud technologies    
+
+💻 MERN Stack Developer passionate about building scalable web applications
+
+🤖 Exploring Artificial Intelligence & Machine Learning, Cloud Technologies
+
+⚡ Love building real-world projects and improving problem-solving skills
+</div>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="./assets/contrib-heatmap.svg" width="100%">
+</p>
 
 
 ---
