@@ -1,0 +1,258 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+width="520"
+height="300"
+viewBox="0 0 520 300">
+
+<style>
+
+.bg{
+fill:#0d1117;
+stroke:#30363d;
+stroke-width:2;
+}
+
+.title{
+fill:#58a6ff;
+font-family:Consolas,monospace;
+font-size:20px;
+font-weight:bold;
+}
+
+.label{
+fill:#8b949e;
+font-family:Consolas,monospace;
+font-size:15px;
+}
+
+.value{
+fill:#c9d1d9;
+font-family:Consolas,monospace;
+font-size:15px;
+}
+
+</style>
+
+<rect
+class="bg"
+x="1"
+y="1"
+width="518"
+height="298"
+rx="12"/>
+
+<text class="title"
+x="25"
+y="35">
+
+$ Hi from Kavyanjali Korrapati
+
+</text>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.0s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="70">
+👤 Name
+</text>
+
+<text class="value"
+x="180"
+y="70">
+Kavyanjali Korrapati
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.15s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="95">
+🎓 Degree
+</text>
+
+<text class="value"
+x="180"
+y="95">
+B.Tech CSE
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.3s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="120">
+💻 Role
+</text>
+
+<text class="value"
+x="180"
+y="120">
+Full Stack Developer
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.44999999999999996s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="145">
+⚛ Frontend
+</text>
+
+<text class="value"
+x="180"
+y="145">
+React • Tailwind CSS
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.6s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="170">
+⚙ Backend
+</text>
+
+<text class="value"
+x="180"
+y="170">
+Node.js • Express
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.75s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="195">
+🗄 Database
+</text>
+
+<text class="value"
+x="180"
+y="195">
+MongoDB
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="0.8999999999999999s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="220">
+🤖 AI
+</text>
+
+<text class="value"
+x="180"
+y="220">
+Python • IBM watsonx
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="1.05s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="245">
+🌱 Learning
+</text>
+
+<text class="value"
+x="180"
+y="245">
+DSA • MERN • GenAI
+</text>
+
+</g>
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+begin="1.2s"
+dur="0.25s"
+fill="freeze"
+to="1"/>
+
+<text class="label"
+x="30"
+y="270">
+📍 Location
+</text>
+
+<text class="value"
+x="180"
+y="270">
+India
+</text>
+
+</g>
+</svg>
