@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -27,7 +29,7 @@ jobs:
       - name: Generate Info Card
         run: python scripts/info_card.py
 
-      - name: Generate ASCII SVG
+      - name: Generate ASCII Portrait
         run: python scripts/make_ascii_svg.py
 
       - name: Generate Contribution Heatmap
@@ -35,10 +37,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/contribution_heatmap.py
 
-      - name: Commit changes
+      - name: Commit & Push
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets
 
