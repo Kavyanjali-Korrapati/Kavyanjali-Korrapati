@@ -1,7 +1,9 @@
 from pathlib import Path
 from github_api import get_contributions
 
-USERNAME = "Kavyanjali-Korrapati"
+import os
+
+USERNAME = os.getenv("GITHUB_REPOSITORY_OWNER", "Kavyanjali-Korrapati")
 
 OUTPUT = Path("assets/contrib-heatmap.svg")
 

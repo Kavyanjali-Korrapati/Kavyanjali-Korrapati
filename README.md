@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Kavyanjali</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
@@ -10,8 +11,37 @@
 🤖 Exploring Artificial Intelligence & Machine Learning, Cloud Technologies
 
 ⚡ Love building real-world projects and improving problem-solving skills
+</div>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="./assets/contrib-heatmap.svg" width="100%">
+</p>
+
+---
+
+<table>
+<tr>
+
+<td width="42%">
+
+<img src="./assets/avi-ascii.svg">
+
+</td>
+
+<td width="58%">
+
+<img src="./assets/info-card.svg">
+
+</td>
+
+</tr>
+</table>
 
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -87,6 +117,11 @@
 <a href="https://www.linkedin.com/in/kavyanjali-korrapati-3a375232b ">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Kavyanjali-Korrapati">
+GitHub
+</a>
+
 
 </div>
 
