@@ -10635,7 +10635,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#216e39"
 opacity="0">
 
 <animate
@@ -10650,6 +10650,35 @@ to="1"/>
 attributeName="transform"
 type="translate"
 begin="3.66s"
+dur="0.20s"
+from="-5 -5"
+to="0 0"
+fill="freeze"/>
+
+</rect>
+
+<rect
+class="cell"
+x="790"
+y="55"
+width="12"
+height="12"
+rx="2"
+fill="#ebedf0"
+opacity="0">
+
+<animate
+attributeName="opacity"
+begin="3.67s"
+dur="0.20s"
+fill="freeze"
+from="0"
+to="1"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+begin="3.67s"
 dur="0.20s"
 from="-5 -5"
 to="0 0"
