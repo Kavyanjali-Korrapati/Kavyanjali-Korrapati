@@ -688,7 +688,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -746,7 +746,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -891,7 +891,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -949,7 +949,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -1355,7 +1355,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -1558,7 +1558,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -1732,7 +1732,7 @@ y="55"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -1935,7 +1935,7 @@ y="55"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -2660,7 +2660,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -2863,7 +2863,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -3153,7 +3153,7 @@ y="55"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -3269,7 +3269,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -3356,7 +3356,7 @@ y="55"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -3472,7 +3472,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -3501,7 +3501,7 @@ y="25"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -3530,7 +3530,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -3704,7 +3704,7 @@ y="25"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -3733,7 +3733,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -3762,7 +3762,7 @@ y="55"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -3965,7 +3965,7 @@ y="55"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -4197,7 +4197,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -4255,7 +4255,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -4400,7 +4400,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -4458,7 +4458,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -4487,7 +4487,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -4690,7 +4690,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#216e39"
 opacity="0">
 
 <animate
@@ -4835,7 +4835,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -4893,7 +4893,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#03001c"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -5038,7 +5038,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -5618,7 +5618,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -5705,7 +5705,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -5821,7 +5821,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -5908,7 +5908,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -7097,7 +7097,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -7271,7 +7271,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -7300,7 +7300,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#216e39"
 opacity="0">
 
 <animate
@@ -7474,7 +7474,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -7503,7 +7503,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#03001c"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -7996,7 +7996,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#30a14e"
 opacity="0">
 
 <animate
@@ -8199,7 +8199,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#fe9600"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -8721,7 +8721,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -8924,7 +8924,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -9098,7 +9098,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -9272,7 +9272,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -9301,7 +9301,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -9475,7 +9475,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -9504,7 +9504,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -9707,7 +9707,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -9939,7 +9939,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#216e39"
 opacity="0">
 
 <animate
@@ -10026,7 +10026,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -10142,7 +10142,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#03001c"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -10229,7 +10229,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -10287,7 +10287,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -10316,7 +10316,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#30a14e"
 opacity="0">
 
 <animate
@@ -10345,7 +10345,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -10374,7 +10374,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -10432,7 +10432,7 @@ y="40"
 width="12"
 height="12"
 rx="2"
-fill="#ebedf0"
+fill="#9be9a8"
 opacity="0">
 
 <animate
@@ -10490,7 +10490,7 @@ y="70"
 width="12"
 height="12"
 rx="2"
-fill="#ffee4a"
+fill="#40c463"
 opacity="0">
 
 <animate
@@ -10519,7 +10519,7 @@ y="85"
 width="12"
 height="12"
 rx="2"
-fill="#fe9600"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -10548,7 +10548,7 @@ y="100"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -10577,7 +10577,7 @@ y="10"
 width="12"
 height="12"
 rx="2"
-fill="#ffc501"
+fill="#ebedf0"
 opacity="0">
 
 <animate
@@ -10592,180 +10592,6 @@ to="1"/>
 attributeName="transform"
 type="translate"
 begin="3.64s"
-dur="0.20s"
-from="-5 -5"
-to="0 0"
-fill="freeze"/>
-
-</rect>
-
-<rect
-class="cell"
-x="790"
-y="25"
-width="12"
-height="12"
-rx="2"
-fill="#ebedf0"
-opacity="0">
-
-<animate
-attributeName="opacity"
-begin="3.65s"
-dur="0.20s"
-fill="freeze"
-from="0"
-to="1"/>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-begin="3.65s"
-dur="0.20s"
-from="-5 -5"
-to="0 0"
-fill="freeze"/>
-
-</rect>
-
-<rect
-class="cell"
-x="790"
-y="40"
-width="12"
-height="12"
-rx="2"
-fill="#ffee4a"
-opacity="0">
-
-<animate
-attributeName="opacity"
-begin="3.66s"
-dur="0.20s"
-fill="freeze"
-from="0"
-to="1"/>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-begin="3.66s"
-dur="0.20s"
-from="-5 -5"
-to="0 0"
-fill="freeze"/>
-
-</rect>
-
-<rect
-class="cell"
-x="790"
-y="55"
-width="12"
-height="12"
-rx="2"
-fill="#ebedf0"
-opacity="0">
-
-<animate
-attributeName="opacity"
-begin="3.67s"
-dur="0.20s"
-fill="freeze"
-from="0"
-to="1"/>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-begin="3.67s"
-dur="0.20s"
-from="-5 -5"
-to="0 0"
-fill="freeze"/>
-
-</rect>
-
-<rect
-class="cell"
-x="790"
-y="70"
-width="12"
-height="12"
-rx="2"
-fill="#ffc501"
-opacity="0">
-
-<animate
-attributeName="opacity"
-begin="3.68s"
-dur="0.20s"
-fill="freeze"
-from="0"
-to="1"/>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-begin="3.68s"
-dur="0.20s"
-from="-5 -5"
-to="0 0"
-fill="freeze"/>
-
-</rect>
-
-<rect
-class="cell"
-x="790"
-y="85"
-width="12"
-height="12"
-rx="2"
-fill="#ebedf0"
-opacity="0">
-
-<animate
-attributeName="opacity"
-begin="3.69s"
-dur="0.20s"
-fill="freeze"
-from="0"
-to="1"/>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-begin="3.69s"
-dur="0.20s"
-from="-5 -5"
-to="0 0"
-fill="freeze"/>
-
-</rect>
-
-<rect
-class="cell"
-x="790"
-y="100"
-width="12"
-height="12"
-rx="2"
-fill="#ebedf0"
-opacity="0">
-
-<animate
-attributeName="opacity"
-begin="3.70s"
-dur="0.20s"
-fill="freeze"
-from="0"
-to="1"/>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-begin="3.70s"
 dur="0.20s"
 from="-5 -5"
 to="0 0"
